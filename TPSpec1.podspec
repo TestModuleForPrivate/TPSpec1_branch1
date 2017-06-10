@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'TPSpec1'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of TPSpec1.'
+  s.summary          = 'This is module for TPSpec1_branch1.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,13 +21,12 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/1186886308@qq.com/TPSpec1'
+  s.homepage         = 'https://github.com/TestModuleForPrivate/TPSpec1_branch1'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '1186886308@qq.com' => 'luoxin3116@gmail.com' }
-  s.source           = { :git => 'https://github.com/1186886308@qq.com/TPSpec1.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/TestModuleForPrivate/TPSpec1_branch1.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
-
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'TPSpec1/Classes/**/*'

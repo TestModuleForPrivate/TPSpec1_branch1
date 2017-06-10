@@ -1,0 +1,22 @@
+{
+  "name": "TPSpec1",
+  "version": "0.1.0",
+  "summary": "A short description of TPSpec1.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/1186886308@qq.com/TPSpec1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1186886308@qq.com": "luoxin3116@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/1186886308@qq.com/TPSpec1.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TPSpec1/Classes/**/*"
+}

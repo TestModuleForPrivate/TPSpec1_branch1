@@ -1,0 +1,6 @@
+framework module Pods_TPSpec1_Tests {
+  umbrella header "Pods-TPSpec1_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
